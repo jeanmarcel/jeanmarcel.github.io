@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>emotion | Jean Costa</title>
+    <link>/tags/emotion/</link>
+      <atom:link href="/tags/emotion/index.xml" rel="self" type="application/rss+xml" />
+    <description>emotion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 22:51:26 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>emotion</title>
+      <link>/tags/emotion/</link>
+    </image>
+    
+    <item>
+      <title>EmotionCheck</title>
+      <link>/project/emotioncheck/</link>
+      <pubDate>Wed, 01 Jan 2020 22:51:26 +0000</pubDate>
+      <guid>/project/emotioncheck/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;Previous studies demonstrate that the way we perceive our bodily signals, such as our heart rate, directly influences the way we feel. By leveraging these findings I designed a wearable device to regulate user’s anxiety by providing false feedback of a slow heart rate using haptic feedback. The results of an experiment with 67 participants show that the device can lower user&#39;s anxiety without being distracting. &lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

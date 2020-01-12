@@ -1,33 +1,73 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Jean Costa</title>
-    <link>https://jeanmarcel.github.io/project/</link>
-    <description>Recent content in Projects on Jean Costa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jeanmarcel.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Projects | Jean Costa</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 22:51:26 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://jeanmarcel.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeanmarcel.github.io/project/deep-learning/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.</description>
+      <title>EmotionCheck</title>
+      <link>/project/emotioncheck/</link>
+      <pubDate>Wed, 01 Jan 2020 22:51:26 +0000</pubDate>
+      <guid>/project/emotioncheck/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;Previous studies demonstrate that the way we perceive our bodily signals, such as our heart rate, directly influences the way we feel. By leveraging these findings I designed a wearable device to regulate user’s anxiety by providing false feedback of a slow heart rate using haptic feedback. The results of an experiment with 67 participants show that the device can lower user&#39;s anxiety without being distracting. &lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://jeanmarcel.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeanmarcel.github.io/project/example-external-project/</guid>
-      <description></description>
+      <title>Mindless Computing</title>
+      <link>/project/mindless-computing/</link>
+      <pubDate>Tue, 31 Dec 2019 14:24:28 -0800</pubDate>
+      <guid>/project/mindless-computing/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+In this project we present the concept of Mindless Computing, which is a novel perspective for designing behavior change technologies. The main idea of Mindless Computing is to design behavior change technologies that does not require user&#39;s conscious awareness to be effective. We present two examples of technologies based on this approach: the Mindless  Plate, which is a plate that creates an illusion to subconsciously influence user&#39;s perception of food portion; and a mobile application that can influence the way a person speaks by manipulating their voice pitch and playing it back in real-time through a headphone.
+</description>
+    </item>
+    
+    <item>
+      <title>Boostmeup</title>
+      <link>/project/boostmeup/</link>
+      <pubDate>Tue, 31 Dec 2019 14:24:18 -0800</pubDate>
+      <guid>/project/boostmeup/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+In this project we present BoostMeUp, a smartwatch intervention designed to improve user&#39;s cognitive performance by regulating their emotions unobtrusively. Based on studies that show that people tend to associate external signals that resemble heart rates as their own, the intervention provides personalized haptic feedback simulating a different heart rate. Users can focus on their tasks and the intervention acts upon them in parallel, without requiring any additional action. The intervention was evaluated in an experiment with 72 participants, in which they had to do math tests under high pressure. Participants who were exposed to slow haptic feedback during the tests decreased their anxiety, increased their heart rate variability and performed better in the math tests, while fast haptic feedback led to the opposite effects. These results indicate that the BoostMeUp intervention can lead to positive cognitive, physiological and behavioral changes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interpersonal Conflicts</title>
+      <link>/project/interpersonal-conflicts/</link>
+      <pubDate>Tue, 31 Dec 2019 14:24:13 -0800</pubDate>
+      <guid>/project/interpersonal-conflicts/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+Emotions play a major role in how interpersonal conflicts unfold. Although several strategies and technological approaches have been proposed for emotion regulation, they often require conscious attention and effort. This often limits their efficacy in practice. In this project, we propose a different approach inspired by self-perception theory: noticing that people are often reacting to the perception of their own behavior, we artificially change their perceptions to influence their emotions. We conducted two studies to evaluate the potential of this approach by automatically and subtly altering how people perceive their own voice. In one study, participants that received voice feedback with a calmer tone during relationship conflicts felt less anxious. In the other study, participants who listened to their own voices with a lower pitch during contentious debates felt more powerful. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Collective Happiness</title>
+      <link>/project/collective-happiness/</link>
+      <pubDate>Tue, 31 Dec 2019 11:09:13 -0800</pubDate>
+      <guid>/project/collective-happiness/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+The increasing adoption of social media has provided a unique opportunity to quantitatively characterize human behavior at a broader scale. Status updates from Twitter, in particular, have been aggregated for large scale sentiment analysis. While the methodologies are diverse in their applications and findings, they often focus on textual analysis and ignore significant media data, such as images.&lt;p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+In this work, we use geolocated images to determine patterns of happiness, and to sense underlying societal events and community characteristics. Comparing to NLP techniques which are often very tightly coupled with specific language, image content based systems allows cross-cultural sentiment analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alertness Scanner</title>
+      <link>/project/alertness-scanner/</link>
+      <pubDate>Tue, 01 Jan 2019 11:09:13 -0800</pubDate>
+      <guid>/project/alertness-scanner/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+In this work we propose AlertnessScanner, a computer-vision based system that collects in-situ pupil information to model alertness in the wild. Based on previous work that shows that pupil size can be used to infer alertness, we developed an Android application that measures pupil size from pictures captured by the front-facing camera of a smartphone. We conducted two in-the-wild studies to evaluate the effectiveness of our solution and found that AlertnessScanner can passively and unobtrusively assess alertness.&lt;/p&gt;</description>
     </item>
     
   </channel>

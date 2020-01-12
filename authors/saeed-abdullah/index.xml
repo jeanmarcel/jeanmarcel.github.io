@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Saeed Abdullah | Jean Costa</title>
+    <link>/authors/saeed-abdullah/</link>
+      <atom:link href="/authors/saeed-abdullah/index.xml" rel="self" type="application/rss+xml" />
+    <description>Saeed Abdullah</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Saeed Abdullah</title>
+      <link>/authors/saeed-abdullah/</link>
+    </image>
+    
+    <item>
+      <title>AlertnessScanner: what do your pupils tell about your alertness</title>
+      <link>/publication/tseng-2018-alertnessscanner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tseng-2018-alertnessscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective smile: Measuring societal happiness from geolocated images</title>
+      <link>/publication/abdullah-2015-collective/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/abdullah-2015-collective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAINT: A scalable sensing and inference toolkit</title>
+      <link>/publication/rabbi-2015-saint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-saint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

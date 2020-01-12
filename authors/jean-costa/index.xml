@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Costa</title>
+    <link>/authors/jean-costa/</link>
+      <atom:link href="/authors/jean-costa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Costa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 22:51:26 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Jean Costa</title>
+      <link>/authors/jean-costa/</link>
+    </image>
+    
+    <item>
+      <title>EmotionCheck</title>
+      <link>/project/emotioncheck/</link>
+      <pubDate>Wed, 01 Jan 2020 22:51:26 +0000</pubDate>
+      <guid>/project/emotioncheck/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;Previous studies demonstrate that the way we perceive our bodily signals, such as our heart rate, directly influences the way we feel. By leveraging these findings I designed a wearable device to regulate user’s anxiety by providing false feedback of a slow heart rate using haptic feedback. The results of an experiment with 67 participants show that the device can lower user&#39;s anxiety without being distracting. &lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BoostMeUp: Improving Cognitive Performance in the Moment by Unobtrusively Regulating Emotions with a Smartwatch</title>
+      <link>/publication/costa-2019-boostmeup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2019-boostmeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AlertnessScanner: what do your pupils tell about your alertness</title>
+      <link>/publication/tseng-2018-alertnessscanner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tseng-2018-alertnessscanner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulating Feelings During Interpersonal Conflicts by Changing Voice Self-perception</title>
+      <link>/publication/costa-2018-regulating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2018-regulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: A Wearable Device to Regulate Anxiety through False Heart Rate Feedback</title>
+      <link>/publication/costa-2017-emotioncheck/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2017-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: leveraging bodily signals and false feedback to regulate our emotions</title>
+      <link>/publication/costa-2016-emotioncheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2016-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talking less during social interactions predicts enjoyment: A mobile sensing pilot study</title>
+      <link>/publication/sandstrom-2016-talking/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sandstrom-2016-talking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An intelligent crowd-worker selection approach for reliable content labeling of food images</title>
+      <link>/publication/rabbi-2015-intelligent/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-intelligent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindless computing: designing technologies to subtly influence behavior</title>
+      <link>/publication/adams-2015-mindless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adams-2015-mindless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAINT: A scalable sensing and inference toolkit</title>
+      <link>/publication/rabbi-2015-saint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-saint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

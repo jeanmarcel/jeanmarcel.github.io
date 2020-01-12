@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Malte F Jung | Jean Costa</title>
+    <link>/authors/malte-f-jung/</link>
+      <atom:link href="/authors/malte-f-jung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Malte F Jung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Malte F Jung</title>
+      <link>/authors/malte-f-jung/</link>
+    </image>
+    
+    <item>
+      <title>BoostMeUp: Improving Cognitive Performance in the Moment by Unobtrusively Regulating Emotions with a Smartwatch</title>
+      <link>/publication/costa-2019-boostmeup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2019-boostmeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulating Feelings During Interpersonal Conflicts by Changing Voice Self-perception</title>
+      <link>/publication/costa-2018-regulating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2018-regulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: A Wearable Device to Regulate Anxiety through False Heart Rate Feedback</title>
+      <link>/publication/costa-2017-emotioncheck/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2017-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: leveraging bodily signals and false feedback to regulate our emotions</title>
+      <link>/publication/costa-2016-emotioncheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2016-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindless computing: designing technologies to subtly influence behavior</title>
+      <link>/publication/adams-2015-mindless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adams-2015-mindless/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

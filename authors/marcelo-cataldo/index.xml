@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcelo Cataldo | Jean Costa</title>
+    <link>/authors/marcelo-cataldo/</link>
+      <atom:link href="/authors/marcelo-cataldo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcelo Cataldo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Marcelo Cataldo</title>
+      <link>/authors/marcelo-cataldo/</link>
+    </image>
+    
+    <item>
+      <title>Analyzing the scalability of coordination requirements of a distributed software project</title>
+      <link>/publication/de-2012-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2012-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The scale and evolution of coordination needs in large-scale distributed projects: implications for the future generation of collaborative tools</title>
+      <link>/publication/costa-2011-scale/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2011-scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

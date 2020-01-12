@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleidson RB Souza | Jean Costa</title>
+    <link>/authors/cleidson-rb-souza/</link>
+      <atom:link href="/authors/cleidson-rb-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cleidson RB Souza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cleidson RB Souza</title>
+      <link>/authors/cleidson-rb-souza/</link>
+    </image>
+    
+    <item>
+      <title>Using TransFlow to analyze open source developers&#39; evolution</title>
+      <link>/publication/costa-2009-using/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2009-using/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

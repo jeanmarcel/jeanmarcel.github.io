@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Jean Costa</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 22:51:26 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>Jean Costa</title>
+      <link>/authors/jean-costa/</link>
+      <pubDate>Wed, 01 Jan 2020 22:51:26 +0000</pubDate>
+      <guid>/authors/jean-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;!--
+&lt;p align=&#34;justify&#34;&gt;
+I am a Postdoctoral Scholar in the Computer Science department at Stanford University, where I am a member of the &lt;a href=&#34;https://hci.stanford.edu/&#34;&gt;HCI group&lt;/a&gt; and supervised by &lt;a href=&#34;https://www.landay.org/&#34;&gt;James Landay&lt;/a&gt;. I received my PhD in Information Science from Cornell University, where I was advised by &lt;a href=&#34;https://pac.cs.cornell.edu/&#34;&gt;Tanzeem Choudhury&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+My research spans the areas of Human-Computer Interaction, Ubiquitous Computing, and Mobile Health. I design, develop and evaluate mobile technologies for perception change. Much of my work focuses on changing perception of sensory signals, by developing subtle interventions that change interoceptive (e.g., &lt;a href=&#34;http://localhost:1313/project/emotioncheck/&#34;&gt;heart rate&lt;/a&gt;), behavioral (e.g., &lt;a href=&#34;http://localhost:1313/project/interpersonal-conflicts/&#34;&gt;voice&lt;/a&gt;) or environmental cues (e.g., &lt;a href=&#34;http://localhost:1313/project/mindless-computing/&#34;&gt;color of objects&lt;/a&gt;) for emotion regulation, behavior change, or cognitive enhancement. &lt;/p&gt;
+--&gt;
+&lt;p align=&#34;justify&#34;&gt;
+I am a Postdoctoral Scholar in the Computer Science department at Stanford University, where I am a member of the &lt;a href=&#34;https://hci.stanford.edu/&#34;&gt;HCI group&lt;/a&gt; and supervised by &lt;a href=&#34;https://www.landay.org/&#34;&gt;James Landay&lt;/a&gt;. I received my PhD in Information Science from Cornell University, where I was advised by &lt;a href=&#34;https://pac.cs.cornell.edu/&#34;&gt;Tanzeem Choudhury&lt;/a&gt;.&lt;/p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+My research spans the areas of Human-Computer Interaction, Ubiquitous Computing, and Mobile Health. Much of my work focuses on designing, developing and evaluating mobile applications for health and wellbeing based on perception change. I design subtle interventions that change how users perceive interoceptive (e.g., &lt;a href=&#34;http://localhost:1313/project/emotioncheck/&#34;&gt;heart rate&lt;/a&gt;), behavioral (e.g., &lt;a href=&#34;http://localhost:1313/project/interpersonal-conflicts/&#34;&gt;voice&lt;/a&gt;) or environmental cues (e.g., &lt;a href=&#34;http://localhost:1313/project/mindless-computing/&#34;&gt;color of objects&lt;/a&gt;) for emotion regulation, behavior change, or cognitive enhancement. &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>François Guimbretière</title>
+      <link>/authors/francois-guimbretiere/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/francois-guimbretiere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malte F Jung</title>
+      <link>/authors/malte-f-jung/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/malte-f-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanzeem Choudhury</title>
+      <link>/authors/tanzeem-choudhury/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/tanzeem-choudhury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mary Czerwinski</title>
+      <link>/authors/mary-czerwinski/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/mary-czerwinski/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saeed Abdullah</title>
+      <link>/authors/saeed-abdullah/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/saeed-abdullah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trinh Le</title>
+      <link>/authors/trinh-le/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/trinh-le/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent W-S Tseng</title>
+      <link>/authors/vincent-w-s-tseng/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/vincent-w-s-tseng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander T Adams*</title>
+      <link>/authors/alexander-t-adams/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/alexander-t-adams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Gatica-Perez</title>
+      <link>/authors/daniel-gatica-perez/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/daniel-gatica-perez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth W Dunn</title>
+      <link>/authors/elizabeth-w-dunn/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/elizabeth-w-dunn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabian Okeke</title>
+      <link>/authors/fabian-okeke/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/fabian-okeke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gillian M Sandstrom</title>
+      <link>/authors/gillian-m-sandstrom/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/gillian-m-sandstrom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean MR Costa</title>
+      <link>/authors/jean-mr-costa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-mr-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laurent Son Nguyen</title>
+      <link>/authors/laurent-son-nguyen/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/laurent-son-nguyen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skanda Muralidhar</title>
+      <link>/authors/skanda-muralidhar/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/skanda-muralidhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vincent Wen-Sheng Tseng</title>
+      <link>/authors/vincent-wen-sheng-tseng/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/vincent-wen-sheng-tseng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth L Murnane</title>
+      <link>/authors/elizabeth-l-murnane/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/elizabeth-l-murnane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elizabeth Lindley Murnane</title>
+      <link>/authors/elizabeth-lindley-murnane/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/elizabeth-lindley-murnane/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean Marcel dos Reis Costa</title>
+      <link>/authors/jean-marcel-dos-reis-costa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-marcel-dos-reis-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mashfiqui Rabbi</title>
+      <link>/authors/mashfiqui-rabbi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/mashfiqui-rabbi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Max Schachere</title>
+      <link>/authors/max-schachere/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/max-schachere/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mi Zhang</title>
+      <link>/authors/mi-zhang/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/mi-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rahmtin Rotabi</title>
+      <link>/authors/rahmtin-rotabi/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/rahmtin-rotabi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thiago Caetano</title>
+      <link>/authors/thiago-caetano/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/thiago-caetano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ana C Cardoso</title>
+      <link>/authors/ana-c-cardoso/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/ana-c-cardoso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleidson RB De Souza</title>
+      <link>/authors/cleidson-rb-de-souza/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/cleidson-rb-de-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gustavo Pessin</title>
+      <link>/authors/gustavo-pessin/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/gustavo-pessin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lilyan Galvao</title>
+      <link>/authors/lilyan-galvao/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/lilyan-galvao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronnie Alves</title>
+      <link>/authors/ronnie-alves/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/ronnie-alves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wallace P Lira</title>
+      <link>/authors/wallace-p-lira/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/wallace-p-lira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marcelo Cataldo</title>
+      <link>/authors/marcelo-cataldo/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/authors/marcelo-cataldo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleidson R de Souza</title>
+      <link>/authors/cleidson-r-de-souza/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/cleidson-r-de-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean M Costa</title>
+      <link>/authors/jean-m-costa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/authors/jean-m-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleidson Ronald Botelho de Souza</title>
+      <link>/authors/cleidson-ronald-botelho-de-souza/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/cleidson-ronald-botelho-de-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael M Feitosa</title>
+      <link>/authors/rafael-m-feitosa/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/rafael-m-feitosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cleidson RB Souza</title>
+      <link>/authors/cleidson-rb-souza/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/cleidson-rb-souza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crys S Goto</title>
+      <link>/authors/crys-s-goto/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/crys-s-goto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francisco W Santana</title>
+      <link>/authors/francisco-w-santana/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/francisco-w-santana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JM dos R Costa</title>
+      <link>/authors/jm-dos-r-costa/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/jm-dos-r-costa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco A Balieiro</title>
+      <link>/authors/marco-a-balieiro/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/marco-a-balieiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maryanne P Rosa</title>
+      <link>/authors/maryanne-p-rosa/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/maryanne-p-rosa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pedro JF Treccani</title>
+      <link>/authors/pedro-jf-treccani/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/pedro-jf-treccani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SF de Sousa</title>
+      <link>/authors/sf-de-sousa/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/sf-de-sousa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rafael Martins Feitosa</title>
+      <link>/authors/rafael-martins-feitosa/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/authors/rafael-martins-feitosa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

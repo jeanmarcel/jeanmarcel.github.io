@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael Martins Feitosa | Jean Costa</title>
+    <link>/authors/rafael-martins-feitosa/</link>
+      <atom:link href="/authors/rafael-martins-feitosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael Martins Feitosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rafael Martins Feitosa</title>
+      <link>/authors/rafael-martins-feitosa/</link>
+    </image>
+    
+    <item>
+      <title>RaisAware: Uma ferramenta de auxı́lio à engenharia de software colaborativa baseada em análises de dependências</title>
+      <link>/publication/dos-2008-raisaware/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dos-2008-raisaware/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

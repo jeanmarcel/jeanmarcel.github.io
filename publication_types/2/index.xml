@@ -1,24 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 on Jean Costa</title>
-    <link>https://jeanmarcel.github.io/publication_types/2/</link>
-    <description>Recent content in 2 on Jean Costa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jeanmarcel.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>2 | Jean Costa</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
     
     <item>
-      <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://jeanmarcel.github.io/publication/person-re-identification/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeanmarcel.github.io/publication/person-re-identification/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <title>BoostMeUp: Improving Cognitive Performance in the Moment by Unobtrusively Regulating Emotions with a Smartwatch</title>
+      <link>/publication/costa-2019-boostmeup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2019-boostmeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: A Wearable Device to Regulate Anxiety through False Heart Rate Feedback</title>
+      <link>/publication/costa-2017-emotioncheck/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2017-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talking less during social interactions predicts enjoyment: A mobile sensing pilot study</title>
+      <link>/publication/sandstrom-2016-talking/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/sandstrom-2016-talking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAINT: A scalable sensing and inference toolkit</title>
+      <link>/publication/rabbi-2015-saint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-saint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A visual-analytics system for railway safety management</title>
+      <link>/publication/lira-2014-visual/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lira-2014-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the scalability of coordination requirements of a distributed software project</title>
+      <link>/publication/de-2012-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2012-analyzing/</guid>
+      <description></description>
     </item>
     
   </channel>

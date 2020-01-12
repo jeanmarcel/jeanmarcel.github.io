@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander T Adams* | Jean Costa</title>
+    <link>/authors/alexander-t-adams/</link>
+      <atom:link href="/authors/alexander-t-adams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander T Adams*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Alexander T Adams*</title>
+      <link>/authors/alexander-t-adams/</link>
+    </image>
+    
+    <item>
+      <title>EmotionCheck: A Wearable Device to Regulate Anxiety through False Heart Rate Feedback</title>
+      <link>/publication/costa-2017-emotioncheck/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2017-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: leveraging bodily signals and false feedback to regulate our emotions</title>
+      <link>/publication/costa-2016-emotioncheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2016-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindless computing: designing technologies to subtly influence behavior</title>
+      <link>/publication/adams-2015-mindless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adams-2015-mindless/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

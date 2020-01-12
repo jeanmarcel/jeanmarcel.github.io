@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cleidson RB De Souza | Jean Costa</title>
+    <link>/authors/cleidson-rb-de-souza/</link>
+      <atom:link href="/authors/cleidson-rb-de-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cleidson RB De Souza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Cleidson RB De Souza</title>
+      <link>/authors/cleidson-rb-de-souza/</link>
+    </image>
+    
+    <item>
+      <title>A visual-analytics system for railway safety management</title>
+      <link>/publication/lira-2014-visual/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lira-2014-visual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the scalability of coordination requirements of a distributed software project</title>
+      <link>/publication/de-2012-analyzing/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2012-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool support for collaborative software development based on dependency analysis</title>
+      <link>/publication/costa-2010-tool/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2010-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Social Networks Analysis of FLOSS Projects using Sargas</title>
+      <link>/publication/de-2009-multiple/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2009-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the effects of Refactoring in the Coordination of Software Development Activities</title>
+      <link>/publication/de-2009-effects/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2009-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding open source developers’ evolution using transflow</title>
+      <link>/publication/costa-2009-understanding/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2009-understanding/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rafael M Feitosa | Jean Costa</title>
+    <link>/authors/rafael-m-feitosa/</link>
+      <atom:link href="/authors/rafael-m-feitosa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rafael M Feitosa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Rafael M Feitosa</title>
+      <link>/authors/rafael-m-feitosa/</link>
+    </image>
+    
+    <item>
+      <title>Tool support for collaborative software development based on dependency analysis</title>
+      <link>/publication/costa-2010-tool/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2010-tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,33 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 on Jean Costa</title>
-    <link>https://jeanmarcel.github.io/publication_types/1/</link>
-    <description>Recent content in 1 on Jean Costa</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://jeanmarcel.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>1 | Jean Costa</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://jeanmarcel.github.io/publication/clothing-search/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeanmarcel.github.io/publication/clothing-search/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <title>AlertnessScanner: what do your pupils tell about your alertness</title>
+      <link>/publication/tseng-2018-alertnessscanner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tseng-2018-alertnessscanner/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mobile visual clothing search</title>
-      <link>https://jeanmarcel.github.io/publication/emotioncheck/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeanmarcel.github.io/publication/emotioncheck/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+      <title>Regulating Feelings During Interpersonal Conflicts by Changing Voice Self-perception</title>
+      <link>/publication/costa-2018-regulating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2018-regulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dites-moi: wearable feedback on conversational behavior</title>
+      <link>/publication/muralidhar-2016-dites/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muralidhar-2016-dites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: leveraging bodily signals and false feedback to regulate our emotions</title>
+      <link>/publication/costa-2016-emotioncheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2016-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An intelligent crowd-worker selection approach for reliable content labeling of food images</title>
+      <link>/publication/rabbi-2015-intelligent/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-intelligent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Collective smile: Measuring societal happiness from geolocated images</title>
+      <link>/publication/abdullah-2015-collective/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/abdullah-2015-collective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>It is not only about grievances: emotional dynamics in social media during the Brazilian protests</title>
+      <link>/publication/dos-2015-not/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/dos-2015-not/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindless computing: designing technologies to subtly influence behavior</title>
+      <link>/publication/adams-2015-mindless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adams-2015-mindless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The scale and evolution of coordination needs in large-scale distributed projects: implications for the future generation of collaborative tools</title>
+      <link>/publication/costa-2011-scale/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2011-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Scalability of Awareness Networks in a Distributed Software Development Project</title>
+      <link>/publication/dos-2010-analyzing/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/dos-2010-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool support for collaborative software development based on dependency analysis</title>
+      <link>/publication/costa-2010-tool/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2010-tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Social Networks Analysis of FLOSS Projects using Sargas</title>
+      <link>/publication/de-2009-multiple/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2009-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding open source developers’ evolution using transflow</title>
+      <link>/publication/costa-2009-understanding/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2009-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using TransFlow to analyze open source developers&#39; evolution</title>
+      <link>/publication/costa-2009-using/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2009-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RaisAware: Uma ferramenta de auxı́lio à engenharia de software colaborativa baseada em análises de dependências</title>
+      <link>/publication/dos-2008-raisaware/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/dos-2008-raisaware/</guid>
+      <description></description>
     </item>
     
   </channel>

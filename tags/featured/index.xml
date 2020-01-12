@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>featured | Jean Costa</title>
+    <link>/tags/featured/</link>
+      <atom:link href="/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <description>featured</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 31 Dec 2019 14:24:28 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>featured</title>
+      <link>/tags/featured/</link>
+    </image>
+    
+    <item>
+      <title>Mindless Computing</title>
+      <link>/project/mindless-computing/</link>
+      <pubDate>Tue, 31 Dec 2019 14:24:28 -0800</pubDate>
+      <guid>/project/mindless-computing/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+In this project we present the concept of Mindless Computing, which is a novel perspective for designing behavior change technologies. The main idea of Mindless Computing is to design behavior change technologies that does not require user&#39;s conscious awareness to be effective. We present two examples of technologies based on this approach: the Mindless  Plate, which is a plate that creates an illusion to subconsciously influence user&#39;s perception of food portion; and a mobile application that can influence the way a person speaks by manipulating their voice pitch and playing it back in real-time through a headphone.
+</description>
+    </item>
+    
+    <item>
+      <title>Collective Happiness</title>
+      <link>/project/collective-happiness/</link>
+      <pubDate>Tue, 31 Dec 2019 11:09:13 -0800</pubDate>
+      <guid>/project/collective-happiness/</guid>
+      <description>&lt;p align=&#34;justify&#34;&gt;
+The increasing adoption of social media has provided a unique opportunity to quantitatively characterize human behavior at a broader scale. Status updates from Twitter, in particular, have been aggregated for large scale sentiment analysis. While the methodologies are diverse in their applications and findings, they often focus on textual analysis and ignore significant media data, such as images.&lt;p&gt;
+&lt;p align=&#34;justify&#34;&gt;
+In this work, we use geolocated images to determine patterns of happiness, and to sense underlying societal events and community characteristics. Comparing to NLP techniques which are often very tightly coupled with specific language, image content based systems allows cross-cultural sentiment analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BoostMeUp: Improving Cognitive Performance in the Moment by Unobtrusively Regulating Emotions with a Smartwatch</title>
+      <link>/publication/costa-2019-boostmeup/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2019-boostmeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulating Feelings During Interpersonal Conflicts by Changing Voice Self-perception</title>
+      <link>/publication/costa-2018-regulating/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2018-regulating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmotionCheck: leveraging bodily signals and false feedback to regulate our emotions</title>
+      <link>/publication/costa-2016-emotioncheck/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2016-emotioncheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mindless computing: designing technologies to subtly influence behavior</title>
+      <link>/publication/adams-2015-mindless/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/adams-2015-mindless/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The scale and evolution of coordination needs in large-scale distributed projects: implications for the future generation of collaborative tools</title>
+      <link>/publication/costa-2011-scale/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/costa-2011-scale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

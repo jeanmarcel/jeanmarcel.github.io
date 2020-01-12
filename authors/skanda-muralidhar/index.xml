@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skanda Muralidhar | Jean Costa</title>
+    <link>/authors/skanda-muralidhar/</link>
+      <atom:link href="/authors/skanda-muralidhar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Skanda Muralidhar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Skanda Muralidhar</title>
+      <link>/authors/skanda-muralidhar/</link>
+    </image>
+    
+    <item>
+      <title>Dites-moi: wearable feedback on conversational behavior</title>
+      <link>/publication/muralidhar-2016-dites/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/muralidhar-2016-dites/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

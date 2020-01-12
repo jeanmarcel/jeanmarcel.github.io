@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Zhang | Jean Costa</title>
+    <link>/authors/mi-zhang/</link>
+      <atom:link href="/authors/mi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mi Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Mi Zhang</title>
+      <link>/authors/mi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>An intelligent crowd-worker selection approach for reliable content labeling of food images</title>
+      <link>/publication/rabbi-2015-intelligent/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-intelligent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SAINT: A scalable sensing and inference toolkit</title>
+      <link>/publication/rabbi-2015-saint/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/rabbi-2015-saint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

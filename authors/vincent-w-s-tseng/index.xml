@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vincent W-S Tseng | Jean Costa</title>
+    <link>/authors/vincent-w-s-tseng/</link>
+      <atom:link href="/authors/vincent-w-s-tseng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vincent W-S Tseng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Vincent W-S Tseng</title>
+      <link>/authors/vincent-w-s-tseng/</link>
+    </image>
+    
+    <item>
+      <title>AlertnessScanner: what do your pupils tell about your alertness</title>
+      <link>/publication/tseng-2018-alertnessscanner/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tseng-2018-alertnessscanner/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

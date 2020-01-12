@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro JF Treccani | Jean Costa</title>
+    <link>/authors/pedro-jf-treccani/</link>
+      <atom:link href="/authors/pedro-jf-treccani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro JF Treccani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Pedro JF Treccani</title>
+      <link>/authors/pedro-jf-treccani/</link>
+    </image>
+    
+    <item>
+      <title>On the effects of Refactoring in the Coordination of Software Development Activities</title>
+      <link>/publication/de-2009-effects/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/de-2009-effects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
